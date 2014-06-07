@@ -1,30 +1,31 @@
 repo-utils
 ==========
 
-Cosas
+##Cosas
 
 
-Prueba de markdown
+#Prueba de markdown
 
-Texto_en italica_
+Texto_en_italica_
 
-URL autolink
+#URL autolink
 
 http://unsitio.com
 
-Tachar 
-
-~Texto tachado~
+#Tachar 
 
 
-Bloques de código
+~~Texto tachado~~
+
+
+#Bloques de código
 
 ```
 public class hola
 
 ```
 
-Con Java
+##Con Java
 
 ```java
 
@@ -32,7 +33,7 @@ System.out.println("Hola")
 ```
 
 
-Tablas
+#Tablas
 
 First Header  | Second Header
 ------------- | -------------
